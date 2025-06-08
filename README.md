@@ -45,6 +45,14 @@ The server exposes 5 main tools for EKS cluster management:
   - `namespace` (string, optional): Kubernetes namespace (defaults to all namespaces)
 - **Outputs**: DeploymentsInfo object with arrays of pods and services
 
+## Getting Started
+
+1. Clone the repository:
+```bash
+git clone https://github.com/FrancoisBib/EKS-MCP.git
+cd EKS-MCP
+```
+
 ## Installation
 
 1. Install dependencies:
